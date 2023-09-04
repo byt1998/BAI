@@ -1,0 +1,13 @@
+C:\EK\android_test_yolo_bcp01\ncnn-android-yolov8-main\ncnn-android-yolov8-percobaan5\app\src\main\jni\CMakeLists.txt
+C:\EK\android_test_yolo_bcp01\ncnn-android-yolov8-main\ncnn-android-yolov8-percobaan5\app\src\main\jni\ncnn-20230517-android-vulkan\arm64-v8a\lib\cmake\glslang\glslang-config-version.cmake
+C:\EK\android_test_yolo_bcp01\ncnn-android-yolov8-main\ncnn-android-yolov8-percobaan5\app\src\main\jni\ncnn-20230517-android-vulkan\arm64-v8a\lib\cmake\glslang\glslang-config.cmake
+C:\EK\android_test_yolo_bcp01\ncnn-android-yolov8-main\ncnn-android-yolov8-percobaan5\app\src\main\jni\ncnn-20230517-android-vulkan\arm64-v8a\lib\cmake\glslang\glslang-targets-release.cmake
+C:\EK\android_test_yolo_bcp01\ncnn-android-yolov8-main\ncnn-android-yolov8-percobaan5\app\src\main\jni\ncnn-20230517-android-vulkan\arm64-v8a\lib\cmake\glslang\glslang-targets.cmake
+C:\EK\android_test_yolo_bcp01\ncnn-android-yolov8-main\ncnn-android-yolov8-percobaan5\app\src\main\jni\ncnn-20230517-android-vulkan\arm64-v8a\lib\cmake\ncnn\ncnn-release.cmake
+C:\EK\android_test_yolo_bcp01\ncnn-android-yolov8-main\ncnn-android-yolov8-percobaan5\app\src\main\jni\ncnn-20230517-android-vulkan\arm64-v8a\lib\cmake\ncnn\ncnn.cmake
+C:\EK\android_test_yolo_bcp01\ncnn-android-yolov8-main\ncnn-android-yolov8-percobaan5\app\src\main\jni\ncnn-20230517-android-vulkan\arm64-v8a\lib\cmake\ncnn\ncnnConfig.cmake
+C:\EK\android_test_yolo_bcp01\ncnn-android-yolov8-main\ncnn-android-yolov8-percobaan5\app\src\main\jni\opencv-mobile-4.6.0-android\sdk\native\jni\abi-arm64-v8a\OpenCVConfig.cmake
+C:\EK\android_test_yolo_bcp01\ncnn-android-yolov8-main\ncnn-android-yolov8-percobaan5\app\src\main\jni\opencv-mobile-4.6.0-android\sdk\native\jni\abi-arm64-v8a\OpenCVModules-release.cmake
+C:\EK\android_test_yolo_bcp01\ncnn-android-yolov8-main\ncnn-android-yolov8-percobaan5\app\src\main\jni\opencv-mobile-4.6.0-android\sdk\native\jni\abi-arm64-v8a\OpenCVModules.cmake
+C:\EK\android_test_yolo_bcp01\ncnn-android-yolov8-main\ncnn-android-yolov8-percobaan5\app\src\main\jni\opencv-mobile-4.6.0-android\sdk\native\jni\OpenCVConfig-version.cmake
+C:\EK\android_test_yolo_bcp01\ncnn-android-yolov8-main\ncnn-android-yolov8-percobaan5\app\src\main\jni\opencv-mobile-4.6.0-android\sdk\native\jni\OpenCVConfig.cmake

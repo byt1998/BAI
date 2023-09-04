@@ -1,0 +1,41 @@
+{
+  "buildFiles": [
+    "C:\\EK\\android_test_yolo_bcp01\\ncnn-android-yolov8-main\\ncnn-android-yolov8-percobaan5\\app\\src\\main\\jni\\CMakeLists.txt",
+    "C:\\EK\\android_test_yolo_bcp01\\ncnn-android-yolov8-main\\ncnn-android-yolov8-percobaan5\\app\\src\\main\\jni\\ncnn-20230517-android-vulkan\\x86_64\\lib\\cmake\\glslang\\glslang-config-version.cmake",
+    "C:\\EK\\android_test_yolo_bcp01\\ncnn-android-yolov8-main\\ncnn-android-yolov8-percobaan5\\app\\src\\main\\jni\\ncnn-20230517-android-vulkan\\x86_64\\lib\\cmake\\glslang\\glslang-config.cmake",
+    "C:\\EK\\android_test_yolo_bcp01\\ncnn-android-yolov8-main\\ncnn-android-yolov8-percobaan5\\app\\src\\main\\jni\\ncnn-20230517-android-vulkan\\x86_64\\lib\\cmake\\glslang\\glslang-targets-release.cmake",
+    "C:\\EK\\android_test_yolo_bcp01\\ncnn-android-yolov8-main\\ncnn-android-yolov8-percobaan5\\app\\src\\main\\jni\\ncnn-20230517-android-vulkan\\x86_64\\lib\\cmake\\glslang\\glslang-targets.cmake",
+    "C:\\EK\\android_test_yolo_bcp01\\ncnn-android-yolov8-main\\ncnn-android-yolov8-percobaan5\\app\\src\\main\\jni\\ncnn-20230517-android-vulkan\\x86_64\\lib\\cmake\\ncnn\\ncnn-release.cmake",
+    "C:\\EK\\android_test_yolo_bcp01\\ncnn-android-yolov8-main\\ncnn-android-yolov8-percobaan5\\app\\src\\main\\jni\\ncnn-20230517-android-vulkan\\x86_64\\lib\\cmake\\ncnn\\ncnn.cmake",
+    "C:\\EK\\android_test_yolo_bcp01\\ncnn-android-yolov8-main\\ncnn-android-yolov8-percobaan5\\app\\src\\main\\jni\\ncnn-20230517-android-vulkan\\x86_64\\lib\\cmake\\ncnn\\ncnnConfig.cmake",
+    "C:\\EK\\android_test_yolo_bcp01\\ncnn-android-yolov8-main\\ncnn-android-yolov8-percobaan5\\app\\src\\main\\jni\\opencv-mobile-4.6.0-android\\sdk\\native\\jni\\abi-x86_64\\OpenCVConfig.cmake",
+    "C:\\EK\\android_test_yolo_bcp01\\ncnn-android-yolov8-main\\ncnn-android-yolov8-percobaan5\\app\\src\\main\\jni\\opencv-mobile-4.6.0-android\\sdk\\native\\jni\\abi-x86_64\\OpenCVModules-release.cmake",
+    "C:\\EK\\android_test_yolo_bcp01\\ncnn-android-yolov8-main\\ncnn-android-yolov8-percobaan5\\app\\src\\main\\jni\\opencv-mobile-4.6.0-android\\sdk\\native\\jni\\abi-x86_64\\OpenCVModules.cmake",
+    "C:\\EK\\android_test_yolo_bcp01\\ncnn-android-yolov8-main\\ncnn-android-yolov8-percobaan5\\app\\src\\main\\jni\\opencv-mobile-4.6.0-android\\sdk\\native\\jni\\OpenCVConfig-version.cmake",
+    "C:\\EK\\android_test_yolo_bcp01\\ncnn-android-yolov8-main\\ncnn-android-yolov8-percobaan5\\app\\src\\main\\jni\\opencv-mobile-4.6.0-android\\sdk\\native\\jni\\OpenCVConfig.cmake"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\AI\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\EK\\android_test_yolo_bcp01\\ncnn-android-yolov8-main\\ncnn-android-yolov8-percobaan5\\app\\.cxx\\Debug\\1b6i2e2h\\x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\AI\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\EK\\android_test_yolo_bcp01\\ncnn-android-yolov8-main\\ncnn-android-yolov8-percobaan5\\app\\.cxx\\Debug\\1b6i2e2h\\x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "yolov8ncnn::@6890427a1f51a3e7e1df": {
+      "artifactName": "yolov8ncnn",
+      "abi": "x86_64",
+      "output": "C:\\EK\\android_test_yolo_bcp01\\ncnn-android-yolov8-main\\ncnn-android-yolov8-percobaan5\\app\\build\\intermediates\\cxx\\Debug\\1b6i2e2h\\obj\\x86_64\\libyolov8ncnn.so",
+      "runtimeFiles": [
+        "C:\\Users\\AI\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\x86_64-linux-android\\24\\libvulkan.so"
+      ]
+    }
+  }
+}

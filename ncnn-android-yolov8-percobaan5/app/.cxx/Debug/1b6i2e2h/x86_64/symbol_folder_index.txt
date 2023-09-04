@@ -1,0 +1,1 @@
+C:\EK\android_test_yolo_bcp01\ncnn-android-yolov8-main\ncnn-android-yolov8-percobaan5\app\build\intermediates\cxx\Debug\1b6i2e2h\obj\x86_64

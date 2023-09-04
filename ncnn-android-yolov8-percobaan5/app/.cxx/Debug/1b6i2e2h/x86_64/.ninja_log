@@ -1,0 +1,14 @@
+# ninja log v5
+4	1434	7154957845186519	CMakeFiles/yolov8ncnn.dir/yolov8ncnn.cpp.o	267888bfbd3ca37c
+19	1660	7154957847406520	CMakeFiles/yolov8ncnn.dir/yolo.cpp.o	758a25a8a39b62d8
+2545	3380	7154956737156878	C:/EK/android_test_yolo_bcp01/ncnn-android-yolov8-main/ncnn-android-yolov8-percobaan5/app/build/intermediates/cxx/Debug/1b6i2e2h/obj/x86_64/libyolov8ncnn.so	1e86ce00ce9ddb7e
+81	3314	7154959333894096	CMakeFiles/yolov8ncnn.dir/yolov8ncnn.cpp.o	24cf9db0e3f49ded
+5	3395	7154959335194095	CMakeFiles/yolov8ncnn.dir/yolo.cpp.o	fc60869852204fff
+3395	4440	7154959343710310	C:/EK/android_test_yolo_bcp01/ncnn-android-yolov8-main/ncnn-android-yolov8-percobaan5/app/build/intermediates/cxx/Debug/1b6i2e2h/obj/x86_64/libyolov8ncnn.so	1e86ce00ce9ddb7e
+0	12	0	clean	2f1d11920b79bbc7
+0	9	0	clean	2f1d11920b79bbc7
+19	2249	7154973437209198	CMakeFiles/yolov8ncnn.dir/yolov8ncnn.cpp.o	24cf9db0e3f49ded
+26	2993	7154973444109189	CMakeFiles/yolov8ncnn.dir/yolo.cpp.o	fc60869852204fff
+2994	3960	7154973453242895	C:/EK/android_test_yolo_bcp01/ncnn-android-yolov8-main/ncnn-android-yolov8-percobaan5/app/build/intermediates/cxx/Debug/1b6i2e2h/obj/x86_64/libyolov8ncnn.so	1e86ce00ce9ddb7e
+6	2182	7155045175334052	CMakeFiles/yolov8ncnn.dir/yolo.cpp.o	fc60869852204fff
+2182	3747	7155045188008719	C:/EK/android_test_yolo_bcp01/ncnn-android-yolov8-main/ncnn-android-yolov8-percobaan5/app/build/intermediates/cxx/Debug/1b6i2e2h/obj/x86_64/libyolov8ncnn.so	1e86ce00ce9ddb7e

@@ -1,0 +1,21 @@
+R_DEF: Internal format may change without notice
+local
+array cpugpu_array
+array model_array
+color colorAccent
+color colorPrimary
+color colorPrimaryDark
+drawable capture_button_background
+drawable ic_baseline_camera_24
+drawable ic_baseline_keyboard_backspace_24
+id buttonSwitchCamera
+id cameraButton
+id cameraview
+id imageBackButton
+id progressCircular
+id saveimgButton
+id selectedImage
+id upimgButton
+layout main
+string app_name
+style AppTheme
